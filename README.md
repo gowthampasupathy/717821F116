@@ -11,6 +11,25 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+![productpage](https://github.com/gowthampasupathy/717821F116/assets/140435319/56b5f226-f6f5-4c67-bcfb-b8fcecb80a8a)
+
+![detailpage](https://github.com/gowthampasupathy/717821F116/assets/140435319/1f79ff26-ca68-48b2-9366-4058e1bae0da)
+
+![mobileproductpage](https://github.com/gowthampasupathy/717821F116/assets/140435319/0df8a3cf-e2e1-4ed6-9834-cb247d5fa6da)
+
+![mobiledetailspage](https://github.com/gowthampasupathy/717821F116/assets/140435319/a0999bbc-dd0f-4176-939a-51fa157f1528)
+
+
+
+![Register](https://github.com/gowthampasupathy/717821F116/assets/140435319/95ac46be-b6ca-4b6e-8b0f-bb43902d1b6f)
+
+
+![Authentication](https://github.com/gowthampasupathy/717821F116/assets/140435319/6cc285ab-4560-4fb9-8ef0-e0865615ca7b)
+
+
+![get-data](https://github.com/gowthampasupathy/717821F116/assets/140435319/f766671e-f75f-46c0-acfa-5e15fdbb0cd5)
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
