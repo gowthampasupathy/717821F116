@@ -14,7 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm test`![productpage](https://github.com/gowthampasupathy/717821F116/assets/140435319/16![detailpag![mobileproductpage](https://github.com/gowthampasupathy/717821F116/assets/140435319/4d4aade2-4efc-4049-b84d-a151d6b42875)![mobiledetailspage](https://github.com/gowthampasupathy/717821F116/assets/140435319/fbcc1989-a34d-425c-b3d0-a6c51a293ac3)
+
+e](https://github.com/gowthampasupathy/717821F116/assets/140435319/24667d42-b73e-4333-aa9f-fc8e5a5cde93)
+d0e457-c7e8-45b6-8fe2-5b3c0d454d03)
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
